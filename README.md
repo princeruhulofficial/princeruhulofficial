@@ -2,15 +2,15 @@
 
 ### Entrepreneur | AI Integrator | Founder of [Prevalid](https://www.prevalid.net)
 
-I'm a young entrepreneur from Bangladesh building products that make AI trustworthy and accountable for everyone.
+I'm a young entrepreneur from Bangladesh building products that make AI trustworthy, useful, and accountable for everyone.
 
 ---
 
 ## 🚀 What I Do
 
-I don't just write code — I **build products** using AI. My focus is on creating tools that bridge the gap between powerful AI systems and the professionals who rely on them.
+I don't just write code — I **build products** using AI. My focus is on creating tools that bridge the gap between powerful AI systems and the people who rely on them every day.
 
-## 🛡️ My Flagship Product
+## 🛡️ Flagship Product
 
 ### [Prevalid](https://www.prevalid.net) — AI Accountability Layer
 
@@ -24,24 +24,26 @@ Prevalid helps lawyers, consultants, doctors, and finance professionals **trust 
 
 > *"If you can't defend an AI-assisted decision, you shouldn't make one."*
 
-## 🧠 My Approach
-
-I believe the future belongs to **AI Integrators** — people who understand how to harness AI tools to solve real-world problems. I use Claude, GPT, and other AI systems not just as tools, but as collaborators in building products.
-
-## 🔧 Tech & Tools I Work With
-
-`Python` · `TypeScript` · `React` · `AI/ML` · `Claude` · `GPT` · `Product Design` · `UI/UX`
-
 ## 📂 Projects
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Prevalid](https://www.prevalid.net) | AI Accountability Layer for professionals | 🟢 Pre-launch |
+| [SmartCalc AI](https://github.com/princeruhulofficial/calculator-ai) | Open-source AI calculator — ask any math problem in plain language and get step-by-step solutions | 🟡 Active |
+| [AI Governance Daily Trending](https://github.com/princeruhulofficial/ai-llm-agent-governance-daily-trending) | Daily automated tracker of trending GitHub repos in AI Agents, LLMs & Governance | 🟢 Live |
 | [InstantPhotos](https://github.com/princeruhulofficial/InstantPhotos) | Get passport-size photos ready in seconds | 🟢 Live |
+
+## 🧠 My Approach
+
+I believe the future belongs to **AI Integrators** — people who understand how to harness AI tools to solve real-world problems. I use Claude, GPT, Grok and other AI systems not just as tools, but as collaborators in building products.
+
+## 🔧 Tech & Tools
+
+`TypeScript` · `React` · `Python` · `Next.js` · `Claude` · `GPT` · `Grok` · `Product Design` · `UI/UX`
 
 ## 🌍 My Vision
 
-Making AI accountable for everyone — starting from Bangladesh, building for the world.
+Making AI accountable and useful for everyone — starting from Bangladesh, building for the world.
 
 ## 📫 Connect With Me
 
