@@ -16,9 +16,9 @@ My long-term goal is simple but ambitious:
 
 ## 🛡️ Flagship: Prevalid
 
-### [Prevalid](https://www.prevalid.net) — AI Execution Operating System
+### [Prevalid](https://www.prevalid.net) — Decision Intelligence for AI
 
-Prevalid is the **trust and governance layer** for the agentic economy.
+Prevalid is the **Decision Intelligence for AI** for the agentic economy.
 
 It sits between AI agents and the real world — enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
 
@@ -35,10 +35,9 @@ It sits between AI agents and the real world — enforcing least privilege, prev
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[Prevalid](https://www.prevalid.net)** | AI Execution OS & Universal Trust Infrastructure | 🟢 Building |
+| **[Prevalid](https://www.prevalid.net)** |Decision Intelligence for AI| 🟢 Building |
 | **[SmartCalc AI](https://github.com/princeruhulofficial/calculator-ai)** | Open-source AI calculator with step-by-step reasoning | 🟡 Active |
 | **[AI Governance Daily Trending](https://github.com/princeruhulofficial/ai-llm-agent-governance-daily-trending)** | Daily automated tracker of trending AI Agents, LLMs & Governance repos | 🟢 Live |
-| [InstantPhotos](https://github.com/princeruhulofficial/InstantPhotos) | Instant passport-size photos | 🟢 Live |
 
 ## 🧠 Philosophy
 
