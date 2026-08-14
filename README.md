@@ -8,27 +8,27 @@ I'm building the foundational layer that makes AI systems accountable, governabl
 ## 🏗️ What I'm Building
 
 I don't just build tools.  
-I'm building **infrastructure and platforms** that will define how AI agents operate safely in the real world.
+I'm building infrastructure and platforms that will define how AI agents operate safely in the real world.
 
 My long-term goal is simple but ambitious:  
 Create something unique and lasting the kind of platform that becomes essential infrastructure, the way Apple redefined personal computing.
 
 ## 🛡️ Flagship: Prevalid
 
-### [Prevalid](https://www.prevalid.net) — Decision Intelligence for AI
+### [Prevalid](https://www.prevalid.net) Decision Intelligence for AI
 
 Prevalid is the Decision Intelligence for AI for the agentic economy.
 
-It sits between AI agents and the real world enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
+It sits between AI agents and the real world, enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
 
-**Core pillars:**
+Core pillars:
 - MCP-native universal interface
 - Least-privilege permission graph with auto-revoke
 - Real-time risk scoring & policy enforcement
 - Human-in-the-loop for high-stakes actions
 - Immutable memory & proof layer
 
-> Making AI Accountable — from Bangladesh, for the world.
+> Making AI Accountable from Bangladesh, for the world.
 
 ## 📂 Current Projects
 
