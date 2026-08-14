@@ -2,9 +2,8 @@
 
 ### Founder of [Prevalid](https://www.prevalid.net) | Building AI Infrastructure & Platforms
 
-I'm building the foundational layer that makes AI systems **accountable, governable, and trustworthy** — not just another tool, but the infrastructure the agentic economy will run on.
+I'm building the foundational layer that makes AI systems accountable, governable, and trustworthy not just another tool, but the infrastructure the agentic economy will run on.
 
----
 
 ## 🏗️ What I'm Building
 
@@ -12,15 +11,15 @@ I don't just build tools.
 I'm building **infrastructure and platforms** that will define how AI agents operate safely in the real world.
 
 My long-term goal is simple but ambitious:  
-**Create something unique and lasting** — the kind of platform that becomes essential infrastructure, the way Apple redefined personal computing.
+Create something unique and lasting the kind of platform that becomes essential infrastructure, the way Apple redefined personal computing.
 
 ## 🛡️ Flagship: Prevalid
 
 ### [Prevalid](https://www.prevalid.net) — Decision Intelligence for AI
 
-Prevalid is the **Decision Intelligence for AI** for the agentic economy.
+Prevalid is the Decision Intelligence for AI for the agentic economy.
 
-It sits between AI agents and the real world — enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
+It sits between AI agents and the real world enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
 
 **Core pillars:**
 - MCP-native universal interface
@@ -29,7 +28,7 @@ It sits between AI agents and the real world — enforcing least privilege, prev
 - Human-in-the-loop for high-stakes actions
 - Immutable memory & proof layer
 
-> *Making AI Accountable — from Bangladesh, for the world.*
+> Making AI Accountable — from Bangladesh, for the world.
 
 ## 📂 Current Projects
 
@@ -41,7 +40,7 @@ It sits between AI agents and the real world — enforcing least privilege, prev
 
 ## 🧠 Philosophy
 
-The next decade will be defined by **who owns the infrastructure** that AI agents run on — not who builds the flashiest demos.
+The next decade will be defined by who owns the infrastructure that AI agents run on not who builds the flashiest demos.
 
 I'm focused on the hard, unsexy, foundational problems:
 - How do we give AI agents real power without losing control?
