@@ -1,67 +1,60 @@
-# Hey there! I'm Prince Ruhul 👋
+# Prince Ruhul
 
-### Founder of [Prevalid](https://www.prevalid.net) | Building AI Infrastructure & Platforms
+### Self-taught entrepreneur · Technology builder · Founder
 
-I'm building the foundational layer that makes AI systems accountable, governable, and trustworthy not just another tool, but the infrastructure the agentic economy will run on.
+I’m a self-taught Bangladeshi entrepreneur and technology builder based in Sylhet. My strengths are **idea generation, problem solving, and visionary thinking**. I use AI as a force multiplier to research, prototype, build, and turn ideas into working products.
 
+> **Think 10× ahead. Build deeply. Keep control. Hide complexity. Deliver simplicity.**
 
-## 🏗️ What I'm Building
+## What I’m building now
 
-I don't just build tools.  
-I'm building infrastructure and platforms that will define how AI agents operate safely in the real world.
+### 1. [Cursor Fllow](https://www.cursorfllow.com) — Current main focus
 
-My long-term goal is simple but ambitious:  
-Create something unique and lasting the kind of platform that becomes essential infrastructure, the way Apple redefined personal computing.
+Cursor Fllow started from a problem I personally experienced: I had a PC but no microphone, and typing for long periods was frustrating. I asked whether a smartphone could become the microphone and voice-input interface for a computer. That question became Cursor Fllow.
 
-## 🛡️ Flagship: Prevalid
+The product lets users speak from a smartphone and flow that voice input into a computer, making voice a practical way to interact with a PC wherever the cursor is. The positioning is currently being refined, and approximately **50% of the current work is complete**.
 
-### [Prevalid](https://www.prevalid.net) Decision Intelligence for AI
+### 2. [Prevalid](https://www.prevalid.net) — Long-term AI infrastructure
 
-Prevalid is the Decision Intelligence for AI for the agentic economy.
+Prevalid is my long-term project in **AI decision intelligence and control infrastructure**. It is being designed to help organizations give AI agents useful power without giving up human control.
 
-It sits between AI agents and the real world, enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
+The core principle is simple: **high-impact AI actions should be permissioned, risk-aware, auditable, and reversible.** Prevalid is currently under construction and remains an important long-term direction.
 
-Core pillars:
-- MCP-native universal interface
-- Least-privilege permission graph with auto-revoke
-- Real-time risk scoring & policy enforcement
-- Human-in-the-loop for high-stakes actions
-- Immutable memory & proof layer
+## Earlier experiments and private projects
 
-> Making AI Accountable from Bangladesh, for the world.
+I have also built projects to solve specific problems, learn through experimentation, and validate ideas. Some were never officially published and should be understood as prototypes or demos—not completed products.
 
-## 📂 Current Projects
+| Project | Description | Link |
+| --- | --- | --- |
+| **PowerPal Bangladesh** | An experimental Bangladesh-focused product concept | [Demo](https://powerpal-bangladesh.vercel.app) |
+| **Bangladesh Canvas** | A creative and experimental web project | [Demo](https://bangladesh-canvas.vercel.app) |
+| **Founder Connect** | An experimental founder networking concept | [Demo](https://founder-connect-nine.vercel.app) |
+| **Electricity Office** | An exploratory concept for clearer electricity-service information in Bangladesh | Private concept |
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[Prevalid](https://www.prevalid.net)** |Decision Intelligence for AI| 🟢 Building |
-| **[SmartCalc AI](https://github.com/princeruhulofficial/calculator-ai)** | Open-source AI calculator with step-by-step reasoning | 🟡 Active |
-| **[AI Governance Daily Trending](https://github.com/princeruhulofficial/ai-llm-agent-governance-daily-trending)** | Daily automated tracker of trending AI Agents, LLMs & Governance repos | 🟢 Live |
+## How I think and what I bring
 
-## 🧠 Philosophy
+- **Idea generation:** I continuously identify problems and generate technology-based solutions.
+- **Problem solving:** I break down problems, research deeply, and learn what is necessary to solve them.
+- **Visionary thinking:** I think beyond the immediate product and consider what a system could become at scale.
+- **AI-enabled building:** I use modern AI tools to accelerate coding, prototyping, research, and execution.
+- **Self-directed learning:** Much of my knowledge comes from the internet, experimentation, and building.
 
-The next decade will be defined by who owns the infrastructure that AI agents run on not who builds the flashiest demos.
+## Focus
 
-I'm focused on the hard, unsexy, foundational problems:
-- How do we give AI agents real power without losing control?
-- How do we make every decision auditable and reversible?
-- How do we turn "AI trust" from a slogan into actual system design?
+`AI Product Building` · `Voice Interfaces` · `Decision Intelligence` · `AI Governance` · `MCP` · `TypeScript` · `Python` · `React` · `Next.js` · `System Design`
 
-## 🔧 Stack & Focus
+## From Bangladesh to the world
 
-`TypeScript` · `Python` · `React` · `Next.js` · `MCP` · `Agent Governance` · `Claude` · `Grok` · `System Design`
+I’m building from Sylhet, Bangladesh with a global ambition: create meaningful technology that solves real problems at scale. My journey is self-directed, execution-focused, and powered by the belief that limited resources do not have to limit the size of the vision.
 
-## 🌍 From Bangladesh to the World
+## Connect
 
-Building from Sylhet, Bangladesh with global ambition.  
-The best infrastructure is often built by people who feel the problems most deeply.
-
-## 📫 Connect
-
-- 🌐 [princeruhul.com](https://www.princeruhul.com)
-- 🛡️ [prevalid.net](https://www.prevalid.net)
-- 𝕏 [@prevalidAi](https://x.com/prevalidAi)
+- Website: [princeruhul.com](https://www.princeruhul.com)
+- Cursor Fllow: [cursorfllow.com](https://www.cursorfllow.com)
+- Prevalid: [prevalid.net](https://prevalid.net)
+- GitHub: [@princeruhulofficial](https://github.com/princeruhulofficial)
+- LinkedIn: [princeruhulofficial](https://www.linkedin.com/in/princeruhulofficial)
 
 ---
 
-*Building the infrastructure layer for the agentic future.*
+*Building ideas into products—from Bangladesh to the world.*
