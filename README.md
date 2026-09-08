@@ -1,67 +1,61 @@
-# Hey there! I'm Prince Ruhul 👋
+# Prince Ruhul
 
-### Founder of [Prevalid](https://www.prevalid.net) | Building AI Infrastructure & Platforms
+### Founder of [Prevalid](https://www.prevalid.net) · Building the control layer for AI
 
-I'm building the foundational layer that makes AI systems accountable, governable, and trustworthy not just another tool, but the infrastructure the agentic economy will run on.
+AI is becoming more capable, autonomous, and embedded in the real world. I’m building the infrastructure that makes that power **controllable, accountable, and trustworthy**.
 
+> **Think 10× ahead. Build deeply. Keep control. Hide complexity. Deliver simplicity.**
 
-## 🏗️ What I'm Building
+## Prevalid
 
-I don't just build tools.  
-I'm building infrastructure and platforms that will define how AI agents operate safely in the real world.
+### Decision intelligence for the agentic economy
 
-My long-term goal is simple but ambitious:  
-Create something unique and lasting the kind of platform that becomes essential infrastructure, the way Apple redefined personal computing.
+[Prevalid](https://www.prevalid.net) sits between AI agents and the real world—helping organizations give agents useful power without giving up human control.
 
-## 🛡️ Flagship: Prevalid
+It is being designed around a simple principle: **high-impact AI actions should be permissioned, risk-aware, auditable, and reversible.**
 
-### [Prevalid](https://www.prevalid.net) Decision Intelligence for AI
+**Core capabilities**
 
-Prevalid is the Decision Intelligence for AI for the agentic economy.
+- **MCP-native interface** for connecting agents to tools and systems
+- **Least-privilege permissions** with dynamic access and automatic revocation
+- **Real-time risk scoring** and policy enforcement
+- **Human approval loops** for high-stakes decisions
+- **Immutable memory and proof layers** for accountability
 
-It sits between AI agents and the real world, enforcing least privilege, preventing hallucinations from causing damage, maintaining full audit trails, and giving humans real control over autonomous systems.
+> Making AI accountable from Bangladesh, for the world.
 
-Core pillars:
-- MCP-native universal interface
-- Least-privilege permission graph with auto-revoke
-- Real-time risk scoring & policy enforcement
-- Human-in-the-loop for high-stakes actions
-- Immutable memory & proof layer
+## What I’m building toward
 
-> Making AI Accountable from Bangladesh, for the world.
+I’m not interested in creating another surface-level AI competitor. I’m focused on the foundational problems that become more important as AI scales:
 
-## 📂 Current Projects
+- How do we give agents real capability without losing control?
+- How do we make autonomous decisions explainable, auditable, and reversible?
+- How do we turn AI trust from a promise into system design?
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **[Prevalid](https://www.prevalid.net)** |Decision Intelligence for AI| 🟢 Building |
+The long-term goal is to build infrastructure that becomes essential to the agentic economy—not because it adds complexity, but because it makes complex systems feel simple and safe.
+
+## Current projects
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| **[Prevalid](https://www.prevalid.net)** | Decision intelligence and governance infrastructure for AI agents | 🟢 Building |
 | **[SmartCalc AI](https://github.com/princeruhulofficial/calculator-ai)** | Open-source AI calculator with step-by-step reasoning | 🟡 Active |
-| **[AI Governance Daily Trending](https://github.com/princeruhulofficial/ai-llm-agent-governance-daily-trending)** | Daily automated tracker of trending AI Agents, LLMs & Governance repos | 🟢 Live |
+| **[AI Governance Daily Trending](https://github.com/princeruhulofficial/ai-llm-agent-governance-daily-trending)** | Automated tracker for trending AI agents, LLMs, and governance projects | 🟢 Live |
 
-## 🧠 Philosophy
+## Focus
 
-The next decade will be defined by who owns the infrastructure that AI agents run on not who builds the flashiest demos.
+`TypeScript` · `Python` · `React` · `Next.js` · `MCP` · `AI Governance` · `Agent Systems` · `System Design`
 
-I'm focused on the hard, unsexy, foundational problems:
-- How do we give AI agents real power without losing control?
-- How do we make every decision auditable and reversible?
-- How do we turn "AI trust" from a slogan into actual system design?
+## From Bangladesh to the world
 
-## 🔧 Stack & Focus
+I’m building from Sylhet, Bangladesh with a global ambition: create technology that is deeply engineered behind the scenes, yet feels effortless to use.
 
-`TypeScript` · `Python` · `React` · `Next.js` · `MCP` · `Agent Governance` · `Claude` · `Grok` · `System Design`
+## Connect
 
-## 🌍 From Bangladesh to the World
-
-Building from Sylhet, Bangladesh with global ambition.  
-The best infrastructure is often built by people who feel the problems most deeply.
-
-## 📫 Connect
-
-- 🌐 [princeruhul.com](https://www.princeruhul.com)
-- 🛡️ [prevalid.net](https://www.prevalid.net)
-- 𝕏 [@prevalidAi](https://x.com/prevalidAi)
+- Website: [princeruhul.com](https://www.princeruhul.com)
+- Prevalid: [prevalid.net](https://www.prevalid.net)
+- X: [@prevalidAi](https://x.com/prevalidAi)
 
 ---
 
-*Building the infrastructure layer for the agentic future.*
+*Building the infrastructure layer for the accountable agentic future.*
